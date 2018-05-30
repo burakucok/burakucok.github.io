@@ -1,2 +1,2 @@
-# burakucok.github.io
-Personal Web Page
+# burakucok.com
+Personal Web Site
