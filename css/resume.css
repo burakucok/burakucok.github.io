@@ -1,0 +1,256 @@
+h4, h5, h6,
+h1, h2, h3 {margin: 0;}
+ul, ol {margin: 0; padding:0;}
+p {margin: 0;}
+html, body{
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 100%;
+	background: #ffffff;
+}
+body a{
+	transition:0.5s all;
+	-webkit-transition:0.5s all;
+	-moz-transition:0.5s all;
+	-o-transition:0.5s all;
+	-ms-transition:0.5s all;
+}	
+body {
+  padding-top:0px;
+}
+a:focus {
+  outline-offset: 0px;
+  text-decoration:none;
+}
+/*----*/
+.content{
+	margin:2em 0; 
+}
+.content h3{
+	color:#333;
+	font-size:1.6em;
+	font-weight:600;
+	  font-style: italic;
+}
+.work, .education, .skill {
+  border-left: 11px solid #0000FF;
+}
+.work, .education, .skill {
+	margin-bottom:2.5em;
+}
+.details{
+	margin-top:2.5em;
+}
+.date p, .header{
+	color: #fff;
+  font-size: 1em;
+  font-weight: 600;
+  background: #0000FF;
+  padding: 8px 0px;
+  text-align: center;
+  border-bottom: 4px solid #000; 
+}
+.posts,.college{
+  margin-right: 3em;
+}
+.posts h4,.college h4{
+	color:#333;
+	font-size:1.2em;
+	margin-bottom:3px;
+	font-weight:600;
+}
+.posts p,.college h5{
+	line-height:1.5em;
+	color:#999;
+	font-weight: 300;
+}
+.college h5{
+	color:#999;
+	font-size:1em;
+	font-weight: 400;
+}
+.city, .skill-type{ 
+	width:19%;
+}
+.city h5, .skill-type h5{
+	color:#333;
+	font-size:1.1em;
+	font-weight:600;
+}
+.city p{
+	color:#333;
+	font-size:1em;
+	font-weight:600;
+}
+.date {
+  padding-left: 0;
+}
+.info{
+	 margin:2em 0 2.5em 0;  
+}
+.info p{
+  line-height: 1.5em;
+  color: #999;
+  font-weight: 300;
+  border-left: 11px solid #0000FF;
+  padding-left:15px; 
+}
+
+ul.media_sec li{
+	margin-top:1.5em;
+	display:block;
+	color: #333;
+  font-weight: 500;
+}
+ul.media_sec li a{
+	display:inline-block;
+	color: #333;
+  font-weight: 500;
+  font-size:0.95em;
+  text-decoration:none;
+}
+ul.media_sec li img{
+	margin-right:5px;
+  max-width: 25px;
+}
+/*--responsive--*/
+@media (max-width: 1024px){
+.city h5 {
+  font-size: 1em;
+}
+.posts p, .college h5,.info p {
+  font-size: 0.9em;
+}
+.city p {
+  font-size: 0.85em;
+}
+}
+@media (max-width: 768px){
+.city, .skill-type {
+  width: 25%;
+  float: left;
+}
+.posts, .college, .skills {
+  margin-right: 2em;
+  float: left;
+  width: 50%;
+}
+.date {
+  float: left;
+  width: 20%;
+}
+.posts h4, .college h4 {
+  font-size: 1.1em;
+}
+.city h5, .skill-type h5 {
+  font-size: 0.95em;
+}
+.city p {
+  font-size: 0.8em;
+}
+.date{
+	padding:0;
+}
+}
+@media (max-width:640px){
+.content h3 {
+  font-size: 1.4em;
+}
+.posts, .college {
+  margin-right: 0em;
+  width: 72%;
+}
+.city h5 {
+  font-size: 0.85em;
+}
+.city p {
+  font-size: 0.75em;
+}
+.posts p, .college h5, .info p {
+  font-size: 0.85em;
+}
+.date p {
+  font-size: 0.9em;
+  padding: 5px 0px;
+  border-bottom: 3px solid #000;
+}
+.info {
+  margin: 2em 0;
+}
+.city, .skill-type {
+  width: 28%;
+}
+ul.media_sec{
+	border-left: 11px solid #0000FF;
+  padding-left: 15px;
+}
+}
+@media (max-width:568px){
+.posts{
+  width: 72%;
+}
+.college {
+  width: 79%;
+}
+.city, .skill-type {
+  margin-bottom: 20px;
+}
+}
+@media (max-width: 480px){
+.city, .skill-type {
+  width: 100%;
+}
+.posts {
+  width: 100%;
+  padding-right: 0;
+  margin-bottom:1.5em;
+}
+.college {
+  width: 100%;
+  margin-bottom:1.5em;
+}
+.college h4 {
+  font-size:0.9em;
+}
+.work, .skill,.info p,ul.media_sec  {
+  border-left: 6px solid #0000FF;
+}
+ul.media_sec li {
+  font-size: 0.9em;
+}
+ul.media_sec li:nth-child(3){
+ padding-bottom:0;
+}
+}
+@media (max-width: 320px){
+.content h3 {
+  font-size: 1.1em;
+}
+.content {
+  margin: 1.5em 0;
+}
+.details {
+  margin-top: 1.5em;
+}
+.top-header {
+  padding: 2.5px 0;
+}
+.posts h4, .college h4 {
+  font-size:1em;
+}
+.posts p, .college h5, .info p {
+  font-size: 0.8em;
+}
+.date {
+  width: 36%;
+}
+.work, .education, .skill {
+  margin-bottom: 1.5em;
+}
+.info {
+  margin: 1.5em 0;
+}
+.college h4 {
+  font-size: 0.95em;
+}
+
+}
