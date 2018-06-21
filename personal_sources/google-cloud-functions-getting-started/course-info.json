@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "google-cloud-functions-getting-started",
+    "Title": "Google Cloud Functions: Getting Started",
+    "ReleaseDate": "2017-12-20T00:00:00Z",
+    "UpdatedDate": "2017-12-20T00:00:00Z",
+    "Level": "Beginner",
+    "ShortDescription": "Serverless technologies are taking the developer world by storm because they allow you to push out code quickly and know that it will scale. This course teaches you how to get started writing serverless code on the Google Cloud Platform.",
+    "Description": "Developers want to build serverless microservices so they can create new content, reduce maintenance, scale easily, and deliver new features to users faster. In this course, Google Cloud Functions: Getting Started, you will learn the skills you need to create high-quality microservices that will enhance the experience of your app or website. First, you will set up a Google Cloud project, install the gcloud command line tools, and set up Google Cloud Functions on your local machine. Next, you will explore all of the different events your functions can respond to, including storage, PubSub, and HTTP triggers. Finally, you will dive into deploying the functions and see how everything integrates seamlessly into the Google Cloud Platform. When you’re finished with this course, you will have a solid understanding of Google Cloud Functions that will allow you to create and deploy your own microservices that will automatically scale with your users.",
+    "DurationInMilliseconds": 8864000,
+    "HasTranscript": 0,
+    "AuthorsFullnames": "James Wilson",
+    "ImageUrl": "https://pluralsight.imgix.net/course-images/audience/software-development.jpg",
+    "DefaultImageUrl": "https://s.pluralsight.com/mobile/software-development/beginner.jpg",
+    "IsStale": null
+  }
+]

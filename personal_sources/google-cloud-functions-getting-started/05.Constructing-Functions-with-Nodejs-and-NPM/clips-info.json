@@ -1,0 +1,82 @@
+[
+  {
+    "Id": 1733,
+    "Name": "9504c539-68fd-4d44-a33a-4ae751ac4165",
+    "Title": "Introduction",
+    "ClipIndex": 0,
+    "DurationInMilliseconds": 114000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 197
+  },
+  {
+    "Id": 1734,
+    "Name": "e0a5ff2f-08a9-40f3-9953-a90b49fad213",
+    "Title": "Installing Node.js",
+    "ClipIndex": 1,
+    "DurationInMilliseconds": 271000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 197
+  },
+  {
+    "Id": 1735,
+    "Name": "ede9d4e9-15bb-4fd9-8149-763c78da3930",
+    "Title": "Setting up Your Node Project",
+    "ClipIndex": 2,
+    "DurationInMilliseconds": 180000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 197
+  },
+  {
+    "Id": 1736,
+    "Name": "7d48abab-d651-4758-bb7f-f6f99a545c27",
+    "Title": "Writing the Functions",
+    "ClipIndex": 3,
+    "DurationInMilliseconds": 322000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 197
+  },
+  {
+    "Id": 1737,
+    "Name": "fc16310e-0e80-4b95-846f-5ce137a65322",
+    "Title": "Deploying the HTTP Trigger",
+    "ClipIndex": 4,
+    "DurationInMilliseconds": 251000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 197
+  },
+  {
+    "Id": 1738,
+    "Name": "52dc6c2a-23d3-4653-b3d2-41474ea5da53",
+    "Title": "Subscribing to the PubSub Trigger",
+    "ClipIndex": 5,
+    "DurationInMilliseconds": 253000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 197
+  },
+  {
+    "Id": 1739,
+    "Name": "44f7a7d6-5022-43ea-a878-11c49e9a2738",
+    "Title": "Connecting to Storage with the Bucket Trigger",
+    "ClipIndex": 6,
+    "DurationInMilliseconds": 234000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 197
+  },
+  {
+    "Id": 1740,
+    "Name": "2e69f338-c95e-4d34-8f26-93678c80669c",
+    "Title": "Summary",
+    "ClipIndex": 7,
+    "DurationInMilliseconds": 285000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 197
+  }
+]

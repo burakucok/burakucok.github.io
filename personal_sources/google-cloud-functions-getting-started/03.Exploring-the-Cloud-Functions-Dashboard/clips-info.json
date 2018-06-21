@@ -1,0 +1,72 @@
+[
+  {
+    "Id": 1719,
+    "Name": "d14e7b90-bbe5-48d9-9826-773b6a976e6c",
+    "Title": "Introduction",
+    "ClipIndex": 0,
+    "DurationInMilliseconds": 126000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 195
+  },
+  {
+    "Id": 1720,
+    "Name": "379b2d83-9985-45b0-8574-16d50d95ee60",
+    "Title": "The Cloud Functions Dashboard",
+    "ClipIndex": 1,
+    "DurationInMilliseconds": 584000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 195
+  },
+  {
+    "Id": 1721,
+    "Name": "5e700e46-027a-43d5-b1c5-62b729c3c595",
+    "Title": "Testing the Functions",
+    "ClipIndex": 2,
+    "DurationInMilliseconds": 401000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 195
+  },
+  {
+    "Id": 1722,
+    "Name": "3b291113-349f-4f1b-a900-0bd131ceb15f",
+    "Title": "Viewing the Source Code",
+    "ClipIndex": 3,
+    "DurationInMilliseconds": 162000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 195
+  },
+  {
+    "Id": 1723,
+    "Name": "62841e31-c480-451a-b76a-c5a1d15451fc",
+    "Title": "Reading Stackdriver Logs",
+    "ClipIndex": 4,
+    "DurationInMilliseconds": 118000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 195
+  },
+  {
+    "Id": 1724,
+    "Name": "b9eef265-3cc4-4b78-baea-ac1072ab0a74",
+    "Title": "Deleting the Functions",
+    "ClipIndex": 5,
+    "DurationInMilliseconds": 48000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 195
+  },
+  {
+    "Id": 1725,
+    "Name": "23238890-5874-4d28-9cc7-7242c010c730",
+    "Title": "Summary",
+    "ClipIndex": 6,
+    "DurationInMilliseconds": 177000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 195
+  }
+]

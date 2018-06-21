@@ -1,0 +1,72 @@
+[
+  {
+    "Id": 1726,
+    "Name": "b9330b6e-19e0-472e-9da3-1bea5f73fd76",
+    "Title": "Leveraging gcloud",
+    "ClipIndex": 0,
+    "DurationInMilliseconds": 147000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 196
+  },
+  {
+    "Id": 1727,
+    "Name": "bf72dfca-b06b-4ce5-86bd-71c149e14989",
+    "Title": "Installing gcloud",
+    "ClipIndex": 1,
+    "DurationInMilliseconds": 174000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 196
+  },
+  {
+    "Id": 1728,
+    "Name": "d43ba519-cba2-4782-a458-ed75993505aa",
+    "Title": "Setting up the Project",
+    "ClipIndex": 2,
+    "DurationInMilliseconds": 194000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 196
+  },
+  {
+    "Id": 1729,
+    "Name": "aee1bcf3-24d5-430e-a9d0-b70f2eacf226",
+    "Title": "Getting to Know gcloud and Cloud Functions",
+    "ClipIndex": 3,
+    "DurationInMilliseconds": 287000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 196
+  },
+  {
+    "Id": 1730,
+    "Name": "fc67b31e-94de-485e-9082-f7aa25341189",
+    "Title": "Calling Functions and Viewing Logs",
+    "ClipIndex": 4,
+    "DurationInMilliseconds": 401000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 196
+  },
+  {
+    "Id": 1731,
+    "Name": "ece27e63-ed8b-4e6b-ba88-d83b62c101f0",
+    "Title": "Deleting Functions",
+    "ClipIndex": 5,
+    "DurationInMilliseconds": 55000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 196
+  },
+  {
+    "Id": 1732,
+    "Name": "7536c71b-bb32-4231-823c-c3b8ed6f6ee8",
+    "Title": "Summary",
+    "ClipIndex": 6,
+    "DurationInMilliseconds": 171000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 196
+  }
+]

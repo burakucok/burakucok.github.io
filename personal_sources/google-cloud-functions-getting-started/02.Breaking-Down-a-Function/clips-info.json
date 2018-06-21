@@ -1,0 +1,92 @@
+[
+  {
+    "Id": 1710,
+    "Name": "427274f7-4ec5-4fc3-b18a-d228fa2f1f64",
+    "Title": "Introduction",
+    "ClipIndex": 0,
+    "DurationInMilliseconds": 140000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 194
+  },
+  {
+    "Id": 1711,
+    "Name": "799dcbba-0e40-491a-9850-76028e0973a2",
+    "Title": "The Triggers",
+    "ClipIndex": 1,
+    "DurationInMilliseconds": 258000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 194
+  },
+  {
+    "Id": 1712,
+    "Name": "cc2e9d7e-5dcc-465c-8918-d3de44474b7a",
+    "Title": "The Event Object",
+    "ClipIndex": 2,
+    "DurationInMilliseconds": 166000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 194
+  },
+  {
+    "Id": 1713,
+    "Name": "73a2da1e-a20f-4ebb-87ff-4772e0533759",
+    "Title": "Digging Through the Data",
+    "ClipIndex": 3,
+    "DurationInMilliseconds": 281000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 194
+  },
+  {
+    "Id": 1714,
+    "Name": "3750b556-67b4-40c5-8412-1a706116be4d",
+    "Title": "Ending the Function",
+    "ClipIndex": 4,
+    "DurationInMilliseconds": 232000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 194
+  },
+  {
+    "Id": 1715,
+    "Name": "e4c9fd2a-e7ef-4d95-a962-0736c0df3f2e",
+    "Title": "The Full Lifecycle",
+    "ClipIndex": 5,
+    "DurationInMilliseconds": 266000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 194
+  },
+  {
+    "Id": 1716,
+    "Name": "0a42abd3-6cb9-40f4-9752-f214145b0a21",
+    "Title": "Creating an HTTP Function",
+    "ClipIndex": 6,
+    "DurationInMilliseconds": 657000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 194
+  },
+  {
+    "Id": 1717,
+    "Name": "698878d9-721d-4267-bf0d-59c020cbf3e4",
+    "Title": "Making the PubSub and Storage Function",
+    "ClipIndex": 7,
+    "DurationInMilliseconds": 369000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 194
+  },
+  {
+    "Id": 1718,
+    "Name": "a4114055-f697-47bd-b78c-7e7624ebf181",
+    "Title": "Summary",
+    "ClipIndex": 8,
+    "DurationInMilliseconds": 206000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 194
+  }
+]

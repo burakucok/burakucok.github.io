@@ -1,0 +1,72 @@
+[
+  {
+    "Id": 1703,
+    "Name": "a98ed344-c8c5-495a-bf72-91eaa4002d12",
+    "Title": "Introducing Serverless Functions",
+    "ClipIndex": 0,
+    "DurationInMilliseconds": 203000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 193
+  },
+  {
+    "Id": 1704,
+    "Name": "86608f47-9c19-4cdc-9141-d1c06051f957",
+    "Title": "Module Overview",
+    "ClipIndex": 1,
+    "DurationInMilliseconds": 78000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 193
+  },
+  {
+    "Id": 1705,
+    "Name": "46d9b6c6-e62d-44b6-9ded-55b21f4c9c9e",
+    "Title": "Why Use Cloud Functions?",
+    "ClipIndex": 2,
+    "DurationInMilliseconds": 318000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 193
+  },
+  {
+    "Id": 1706,
+    "Name": "d7111d27-b68c-4d66-83e1-180668fdf118",
+    "Title": "Google Cloud Platform's Compute Spectrum",
+    "ClipIndex": 3,
+    "DurationInMilliseconds": 324000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 193
+  },
+  {
+    "Id": 1707,
+    "Name": "9c193245-b504-403f-90d4-a27cd247aa63",
+    "Title": "Developer Environment",
+    "ClipIndex": 4,
+    "DurationInMilliseconds": 74000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 193
+  },
+  {
+    "Id": 1708,
+    "Name": "f7b0424b-ead8-4667-ace7-9689aee9a734",
+    "Title": "Setting up the Project",
+    "ClipIndex": 5,
+    "DurationInMilliseconds": 201000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 193
+  },
+  {
+    "Id": 1709,
+    "Name": "24ab63e1-f0b8-4ee4-9281-27c70b575ad0",
+    "Title": "Summary",
+    "ClipIndex": 6,
+    "DurationInMilliseconds": 64000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 193
+  }
+]
