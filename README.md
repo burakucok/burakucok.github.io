@@ -1,2 +1,2 @@
 # Portfolio Site
-  Website contains my portfolio and links of my profiles
+  Website containing my portfolio and links of my profiles
